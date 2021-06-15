@@ -56,6 +56,8 @@ Youngblut et al. Strong influence of vertebrate host phylogeny on gut archaeal d
   * Available as Table S1 in the manuscript
 * MiSeq sequence data
   * Available from the European Nucleotide Archive under the study accession number PRJEB40672
+* Shotgun metagenome data
+  * Available from the European Nucleotide Archive under the study accession number PRJEB38078
 
 # Contact
 
