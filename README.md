@@ -3,7 +3,11 @@
 
 Code associated with the manuscript:
 
-Youngblut et al. Strong influence of vertebrate host phylogeny on gut archaeal diversity. **in prep**
+Youngblut et al. Strong influence of vertebrate host phylogeny on gut archaeal diversity.
+
+# Citation
+
+> Youngblut, Nicholas D., Georg H. Reischer, Silke Dauser, Chris Walzer, Gabrielle Stalder, Andreas H. Farnleitner, and Ruth E. Ley. 2020. "Strong Influence of Vertebrate Host Phylogeny on Gut Archaeal Diversity." bioRxiv. https://doi.org/10.1101/2020.11.10.376293.
 
 # Notebooks
 
@@ -41,7 +45,10 @@ Youngblut et al. Strong influence of vertebrate host phylogeny on gut archaeal d
 * 07_arc-bac
   * Archaea-Bacteria community diversity correlation
   * Archaea-Bacteria co-occurence analyses
-  * Bacteria obtained from Youngblut et al., 2019
+  * Bacteria obtained from [Youngblut et al., 2019](https://doi.org/10.1038/s41467-019-10191-3)
+* 08_metagenomes
+  * metagenome data from [Youngblut et al., 2020](https://pubmed.ncbi.nlm.nih.gov/33144315/)
+  * Methanothermobacter contigs can be found at [FigShare](https://figshare.com/s/4c6ceb4ba8be4bab659f)
 
 # Raw data
 
